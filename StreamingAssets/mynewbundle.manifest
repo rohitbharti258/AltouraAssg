@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3989489470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc197ff94a26f65d43ef4196157c9ff9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc197ff94a26f65d43ef4196157c9ff9
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/mynewbundle/big_buck_bunny_720p_1mb.mp4
+Dependencies: []

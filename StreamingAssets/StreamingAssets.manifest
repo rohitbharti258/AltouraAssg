@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1007464044
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mynewbundle
+      Dependencies: {}
+    Info_1:
+      Name: glbbundle
+      Dependencies: {}
